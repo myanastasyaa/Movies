@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="got">G.O.T. </string>
+    <string name="shawshank">Shawsank</string>
+    <string name="godfather">Godfather</string>
+    <string name="forrest_gump">Forrest</string>
+    <string name="pulp">Pulp</string>
+    <string name="schindler">Schindler</string>
+    <string name="dark_knight">Knight</string>
+    <string name="inception">Inception</string>
+    <string name="parasite">Parasite</string>
+    <string name="gladiator">Gladiator</string>
+    <string name="matrix">Matrix</string>
+    <string name="stranger_things">Stranger</string>
+    <string name="crown">Crown</string>
+    <string name="witcher">Witcher</string>
+    <string name="joker">Joker</string>
+    <string name="titanic">Titanic</string>
+    <string name="friends">Friends</string>
+    <string name="spartacus">Spartacus</string>
+    <string name="sherlock">Sherlock</string>
+    <string name="vikings">Vikings</string>
+</resources>
